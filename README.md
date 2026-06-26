@@ -109,8 +109,7 @@ Research Pipeline
 
 Citation-Grounded Research Report
 
-Architecture Diagram:
-
+```
 ⚙ Tech Stack
 Frontend
 Streamlit
