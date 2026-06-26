@@ -26,6 +26,12 @@ The system combines semantic retrieval with local Large Language Model inference
 
 ---
 
+## 🏗 System Architecture
+
+![System Architecture](architecture.png)
+
+---
+
 ## ✨ Key Features
 
 ### 🔍 Domain-Specific Corpus Construction
